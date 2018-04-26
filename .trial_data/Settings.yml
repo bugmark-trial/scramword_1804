@@ -1,0 +1,21 @@
+---
+# repo_type: github
+# repo_name: bugmark-trial/worker1_1804
+repo_type: yaml
+repo_name: /tmp/scramword.yml
+num_pr_issues:      3
+num_comment_issues: 3
+max_hint_level:     2
+c2_price:    1.00
+c2_volume:   10
+c1_price:    0.95
+c1_volume:   20
+c0_price:    0.90
+c0_volume:   30
+p2_price:    1.00
+p2_volume:   20
+p1_price:    0.95
+p1_volume:   40
+p0_price:    0.90
+p0_volume:   60
+
