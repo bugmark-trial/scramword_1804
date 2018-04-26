@@ -3,6 +3,7 @@
 # repo_name: bugmark-trial/worker1_1804
 repo_type: yaml
 repo_name: /tmp/scramword.yml
+webapp_url: scramword.bugmark.net:4567
 num_pr_issues:      3
 num_comment_issues: 3
 max_hint_level:     2
