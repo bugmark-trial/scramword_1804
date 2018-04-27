@@ -1,9 +1,10 @@
 ---
 # repo_type: github
-# repo_name: bugmark-trial/worker1_1804
+# repo_name: bugmark-trial/scramword_1805
+# webapp_url: scramword.bugmark.net:4567
 repo_type: yaml
 repo_name: /tmp/scramword.yml
-webapp_url: scramword.bugmark.net:4567
+webapp_url: localhost:4567
 num_pr_issues:      3
 num_comment_issues: 3
 max_hint_level:     2
@@ -19,4 +20,15 @@ p1_price:    0.95
 p1_volume:   40
 p0_price:    0.90
 p0_volume:   60
+start_date: 2018-05-02
+finish_date: 2018-05-04
+leader_name: Malvika Rao
+leader_email: malvikar@gmail.com
+participants:
+  - andy@r210.com
+  - malvikar@gmail.com
+  - linkgeorg@gmail.com
+  - dmarti@mozilla.com
+  - sstruble@mozilla.com
+
 

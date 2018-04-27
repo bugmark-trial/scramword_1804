@@ -1,4 +1,4 @@
-UnScramble this Word: i a e g p n k
+UnScramble this Word: u a i a r a q
 ----------
 
 Answer in the issue comments
