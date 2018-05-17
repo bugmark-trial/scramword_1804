@@ -1,34 +1,15 @@
 ---
-# repo_type: github
-# repo_name: bugmark-trial/scramword_1805
-# webapp_url: scramword.bugmark.net:4567
-repo_type: yaml
-repo_name: /tmp/scramword.yml
-webapp_url: localhost:4567
-num_pr_issues:      3
-num_comment_issues: 3
-max_hint_level:     2
-c2_price:    1.00
-c2_volume:   10
-c1_price:    0.95
-c1_volume:   20
-c0_price:    0.90
-c0_volume:   30
-p2_price:    1.00
-p2_volume:   20
-p1_price:    0.95
-p1_volume:   40
-p0_price:    0.90
-p0_volume:   60
-start_date: 2018-05-02
-finish_date: 2018-05-04
-leader_name: Malvika Rao
-leader_email: malvikar@gmail.com
-participants:
-  - andy@r210.com
-  - malvikar@gmail.com
-  - linkgeorg@gmail.com
-  - dmarti@mozilla.com
-  - sstruble@mozilla.com
-
-
+webapp_url:   soak:4567
+tracker_type: yaml
+tracker_name: /tmp/funder_tracker.yml
+repo_url:     github.com/bugmark-trial/funder1
+start_date:   2018-05-21
+finish_date:  2018-05-24
+scram_c3_volume: 20
+scram_c2_volume: 20
+scram_c1_volume: 20
+scram_c0_volume: 20
+scram_p3_volume: 20
+scram_p2_volume: 20
+scram_p1_volume: 20
+scram_p0_volume: 20
