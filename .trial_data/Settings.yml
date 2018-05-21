@@ -5,7 +5,7 @@ tracker_name: /tmp/funder_tracker.yml
 repo_url:     github.com/bugmark-trial/funder1
 start_date:   2018-05-21
 finish_date:  2018-05-24
-seed_balance: 500
+seed_balance: 200
 scram_c3_volume: 20
 scram_c2_volume: 20
 scram_c1_volume: 20
