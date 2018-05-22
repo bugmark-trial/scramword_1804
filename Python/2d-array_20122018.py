@@ -16,3 +16,4 @@
 #
 #
 # Solution:
+print((lambda x, y: [[i * j for j in range(y)] for i in range(x)])(*map(int, input().split(","))))
