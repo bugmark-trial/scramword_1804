@@ -15,3 +15,4 @@
 #
 #
 # Solution:
+print(sys.stdin.read().upper())
