@@ -1,4 +1,6 @@
-Unscramble this word: s e r t e a u
+Unscramble this word: i w o t l w h
+
+HINT: the unscrambled word starts with 'whi'
 
 
 

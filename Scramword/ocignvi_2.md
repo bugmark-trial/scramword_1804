@@ -1,6 +1,6 @@
-Unscramble this word: v c e s t a o
+Unscramble this word: o c i g n v i
 
-HINT: the unscrambled word starts with 'a'
+HINT: the unscrambled word starts with 'vo'
 
 
 

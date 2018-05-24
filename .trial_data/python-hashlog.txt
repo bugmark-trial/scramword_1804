@@ -1,2 +1,4 @@
 /home/deploy/src/test_bench/data/python/Scripts/remove_duplicate_sort.py
 /home/deploy/src/test_bench/data/python/Scripts/all_caps.py
+/home/deploy/src/test_bench/data/python/Scripts/even_digits.py
+/home/deploy/src/test_bench/data/python/Scripts/remove_duplicate_sort.py
