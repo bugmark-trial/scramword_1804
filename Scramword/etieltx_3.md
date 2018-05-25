@@ -1,4 +1,6 @@
-Unscramble this word: e g i t p n m
+Unscramble this word: e t i e l t x
+
+HINT: the unscrambled word starts with 'tex'
 
 
 
