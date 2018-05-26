@@ -1,12 +1,7 @@
-Unscramble this word: i w o t l w h
+Unscramble this word: t p e y f s u
 
-HINT: the unscrambled word starts with 'whi'
+HINT: the unscrambled word starts with 'st'
 
 
 
 TO RESOLVE THIS ISSUE: unscramble the word, and add it to the document. Then submit a pull-request.  Make sure to reference the correct issue  number (using the `#NNN` syntax) in your pull-request. 
-
-
-
-
-whitlow

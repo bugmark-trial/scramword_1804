@@ -1,4 +1,6 @@
-Unscramble this word: r n d a e b o
+Unscramble this word: e l e t c d f
+
+HINT: the unscrambled word starts with 'd'
 
 
 

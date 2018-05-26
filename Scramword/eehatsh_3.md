@@ -1,6 +1,6 @@
-Unscramble this word: i y a i r b l
+Unscramble this word: e e h a t s h
 
-HINT: the unscrambled word starts with 'b'
+HINT: the unscrambled word starts with 'she'
 
 
 

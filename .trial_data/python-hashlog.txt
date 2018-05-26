@@ -4,3 +4,5 @@
 /home/deploy/src/test_bench/data/python/Scripts/remove_duplicate_sort.py
 /home/deploy/src/test_bench/data/python/Scripts/count_digits_letters.py
 /home/deploy/src/test_bench/data/python/Scripts/sum_of_digits.py
+/home/deploy/src/test_bench/data/python/Scripts/list_tupal.py
+/home/deploy/src/test_bench/data/python/Scripts/integral_number.py
