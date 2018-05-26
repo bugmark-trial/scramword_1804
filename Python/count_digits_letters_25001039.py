@@ -14,3 +14,4 @@
 #
 #
 # Solution:
+print((lambda x: "LETTERS {}\nDIGITS {}".format(sum(y.isalpha() for y in x), sum(y.isdigit() for y in x)))(input()))
