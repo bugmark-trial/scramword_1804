@@ -13,3 +13,4 @@
 # assumed to be a console input.
 #
 # Solution:
+print(1234 * int(input()))
