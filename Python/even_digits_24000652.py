@@ -9,3 +9,4 @@
 # In case of input data being supplied to the question, it should be assumed to be a console input.
 #
 # Solution:
+print(",".join(map(str, filter(lambda x: all(map(lambda y: int(y) % 2 == 0, list(str(x)))), range(1000, 3001)))))
